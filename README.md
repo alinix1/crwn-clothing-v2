@@ -58,7 +58,7 @@ This is a course offered by ZMT 🎉
 
 Used the following resources during the project:
 
-- [![ZMT]][zmt]
+- [zmt]
 
 <!-- CONTACT -->
 
@@ -76,6 +76,7 @@ Ali Nix | [![LinkedIn][linkedin-shield]][linkedin-url1]
 [JavaScript-shield]: https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
 [CSS-shield]: https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
 [Webpack-shield]: https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black
+[Netlify-shield]: https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url1]: https://www.linkedin.com/in/ali-nix-38b9b9126/
 [zmt]: https://zerotomastery.io/courses/learn-react/
