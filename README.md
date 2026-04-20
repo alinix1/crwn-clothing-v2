@@ -78,5 +78,5 @@ Ali Nix | [![LinkedIn][linkedin-shield]][linkedin-url1]
 [Webpack-shield]: https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black
 [Netlify-shield]: https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url1]: https://www.linkedin.com/in/ali-nix-38b9b9126/
+[linkedin-url1]: https://www.linkedin.com/in/ali-nix/
 [zmt]: https://zerotomastery.io/courses/learn-react/
